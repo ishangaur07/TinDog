@@ -1,1 +1,2 @@
 # TinDog
+A static Website
